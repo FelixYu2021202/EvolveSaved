@@ -1,0 +1,30 @@
+{
+    "name": "Happybob",
+    "desc": "Bobs aren't always called a species unless they are always happy and saying \"Yoxi yoxi\".",
+    "entity": "A type of bob that's always happy.",
+    "home": "Bobbiarth",
+    "red": "Happiars",
+    "hell": "Yoxitis",
+    "gas": "Hahasher",
+    "gas_moon": "Fporkde",
+    "dwarf": "Shajiers",
+    "titan": "Nimas",
+    "enceladus": "Huiladus",
+    "triton": "Ranton",
+    "eris": "Bobron",
+    "genes": 0,
+    "genus": "herbivore",
+    "traitlist": [
+        "arrogant",
+        "gluttony",
+        "chameleon",
+        "mistrustful",
+        "rainbow",
+        "smart",
+        "fragrant",
+        "dark_dweller",
+        "environmentalist",
+        "tunneler"
+    ],
+    "fanaticism": false
+}
