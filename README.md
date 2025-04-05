@@ -15,7 +15,8 @@
 | 2024.1.28  | 2024.3.20  | Black Hole | Antimatter    | Grassland | Gnome     |                  |
 | 2024.3.20  | 2024.3.27  | MAD        | Heavy Gravity | Grassland | Gecko     |                  |
 | 2024.3.27  | 2024.4.1   | Bioseed    | Heavy Gravity | Grassland | Sporgar   |                  |
-| 2024.4.1   |            |            | Heavy Gravity | Oceanic   | Octigoran |                  |
+| 2024.4.1   | 2024.4.5   | Bioseed    | Heavy Gravity | Oceanic   | Octigoran |                  |
+| 2024.4.5   |            |            | Heavy Gravity | Forest    | Capybara  |                  |
 
 ### Species
 
