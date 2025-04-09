@@ -16,7 +16,8 @@
 | 2024.3.20  | 2024.3.27  | MAD        | Heavy Gravity | Grassland | Gecko     |                  |
 | 2024.3.27  | 2024.4.1   | Bioseed    | Heavy Gravity | Grassland | Sporgar   |                  |
 | 2024.4.1   | 2024.4.5   | Bioseed    | Heavy Gravity | Oceanic   | Octigoran |                  |
-| 2024.4.5   |            |            | Heavy Gravity | Forest    | Capybara  |                  |
+| 2024.4.5   | 2024.4.9   | Bioseed    | Heavy Gravity | Forest    | Capybara  |                  |
+| 2024.4.9   |            |            | Heavy Gravity | Taiga     | Satyr     |                  |
 
 ### Species
 
